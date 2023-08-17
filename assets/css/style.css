@@ -1,3 +1,5 @@
+/* Below are the tag styles*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -49,6 +51,19 @@ a {
 p {
     font-size: 16px;
 }
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h4 {
+    font-size: 20px;
+}
+
+/* Below are the class styles */
 
 .hero {
     height: 800px;
@@ -186,15 +201,4 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h4 {
-    font-size: 20px;
 }

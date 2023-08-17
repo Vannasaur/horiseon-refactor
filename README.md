@@ -31,6 +31,8 @@ N/A
 
 To review the updated source code and CSS style sheet, please open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser.
 
+Link to deployed application: https://vannasaur.github.io/module-1-horiseon-refactor/
+
 ## Credits
 
 Code Refactor Starter Code from github user: Georgeyoo in Repository: urban-octo-telegram. See below for link to repository: https://github.com/coding-boot-camp/urban-octo-telegram
@@ -39,8 +41,6 @@ Code Refactor Starter Code from github user: Georgeyoo in Repository: urban-octo
 
 MIT License, please refer to the LICENSE in the repo.
 
-STILL NEED:
-screenshot of finished project
-technologies used
-link to the live deployed version of application
-add license
+
+![_Users_giovannaluciano_bootcamp_challenges_module-1_index html (1)](https://github.com/Vannasaur/module-1-horiseon-refactor/assets/141793843/53e0b1d6-d208-4d36-9e0b-c502609cfc51)
+

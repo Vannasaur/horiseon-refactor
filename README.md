@@ -31,7 +31,7 @@ N/A
 
 To review the updated source code and CSS style sheet, please open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser.
 
-Link to deployed application: https://vannasaur.github.io/module-1-horiseon-refactor/
+Link to deployed application: https://vannasaur.github.io/horiseon-refactor/
 
 ## Credits
 
